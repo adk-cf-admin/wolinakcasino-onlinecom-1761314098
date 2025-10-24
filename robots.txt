@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://wolinakcasino-online.com/
+Sitemap: https://wolinakcasino-online.com/sitemap.xml

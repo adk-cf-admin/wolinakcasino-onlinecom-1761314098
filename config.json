@@ -1,0 +1,197 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#0E040F",
+            "lang-select-color": "#222829",
+            "bg-light": "#2E0A1E",
+            "welcome-bonus-bg": "#2E0A1E",
+            "top-games-hover-fg": "#fcfcfc",
+            "main-bg": "#0E040F",
+            "text": "#eff0f0",
+            "text-black": "#ffffff",
+            "table-head": "#2E0A1E",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#F70000",
+            "yellow": "#0F73D3",
+            "yellow-button": "#F70000",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#5f163c",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#5f163c",
+            "faq-label": "#2E0A1E",
+            "bg-footer": "#2E0A1E",
+            "copyright": "#e7e7d5",
+            "starColor": "#0F73D3",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "W\u00f4linak Casino",
+            "title": "W\u00f4linak Casino | Best Casino in Quebec with Slots, Live Games & Bonuses",
+            "description": "Discover W\u00f4linak Casino in Quebec \u2013 top slots, live dealer games, poker, and exclusive bonuses up to C$5000. Enjoy fine dining, bars, hotels, and unforgettable entertainment. Join now!",
+            "canonical": "wolinakcasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/218",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/219",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/220"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/222",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Wolinak Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "W\u00f4linak Casino \u2013 Your Ultimate Gaming and Entertainment Destination in Quebec",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/224",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/225",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Modern slot machines with high-quality graphics",
+                "Variety of table games for all levels",
+                "Cozy atmosphere and friendly staff",
+                "Regular promotions and bonus offers for players",
+                "Restaurant and bar with excellent cuisine",
+                "Convenient location near Trois-Rivi\u00e8res",
+                "Live music and entertainment events regularly"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Wolinak Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/226",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Wolinak Casino App",
+            "mobileGooglePlayImageTitle": "Wolinak Casino App",
+            "mobileIosImageTitle": "Wolinak Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About W\u00f4linak Casino",
+                "description1": "",
+                "items": [
+                    "Welcome Bonus up to C$5000",
+                    "Up to 300 Free Spins",
+                    "Maximum win up to C$4000"
+                ],
+                "description2": "W\u00f4linak Casino is a modern gaming destination in Quebec, Canada, offering a wide selection of slot machines, table games, and poker. Guests enjoy generous bonuses, including a welcome package of up to C$5000 and up to 300 free spins. With a cozy atmosphere, an excellent restaurant, and regular live entertainment, it\u2019s the perfect spot for excitement and relaxation.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/227",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Grand Royal W\u00f4linak Casino: Your Ultimate Gaming and Entertainment Destination in Quebec",
+                "description": "<p>\n       Grand Royal W\u00f4linak Casino, located in B\u00e9cancour, Quebec, is more than just a casino\u2014it\u2019s a complete entertainment experience. With over 450 state-of-the-art slot machines, a dedicated poker room, and classic table games like Blackjack and Roulette, the casino offers endless excitement for every type of player. Guests are welcomed with an exclusive bonus package of up to C$5000 and 300 free spins, making the start of your gaming journey even more rewarding.\n        <\/p>\n        <br>\n<p>\n      The casino is home to Ginko, a fine dining restaurant that combines local flavors with international cuisine, and several stylish bars where you can enjoy signature cocktails and premium spirits. For those planning an extended stay, nearby hotels such as Motel Canadien and Le Marquis provide comfortable accommodations just minutes away from the casino.\n        <\/p>\n        <br>\n<p>\n       Entertainment goes beyond gaming at W\u00f4linak Casino. Visitors can enjoy live music, cultural events, and shows in a 1,000-seat arena, creating a vibrant atmosphere for both locals and tourists. The venue also celebrates indigenous Abenaki culture, offering unique shopping experiences and cultural exhibitions.\n        <\/p>\n        <br>\n<p>\n          Players benefit from a VIP Rewards Program designed to enhance loyalty with exclusive perks, cashback offers, and personalized services. Combined with regular promotions and seasonal events, the casino ensures that every visit feels special. Whether you\u2019re here for the thrill of the games, the taste of gourmet dining, or the excitement of live entertainment, Grand Royal W\u00f4linak Casino delivers an unforgettable experience in the heart of Quebec.\n        <\/p>\n        <br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nW\u00f4linak Casino Visitor Rules and Entry Requirements\n<\/h3>\n\n<p>  Guests must be 18 years or older, as this is the legal gambling age in Quebec. A valid government-issued photo ID such as a passport or driver\u2019s license is required at the entrance, and in some cases, a second piece of identification may be requested for security or large transactions.<\/p>\n<br>\n<p> While there is no strict dress code, the casino recommends a smart casual style\u2014neat and comfortable clothing without beachwear or sports attire. Please note that entry is prohibited for individuals who are visibly intoxicated or enrolled in a self-exclusion program. The use of fake identification is strictly forbidden and may result in legal consequences.<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJoin the LYNX Rewards Loyalty Program at W\u00f4linak Casino\n\n<\/h3>\n\n<p>Take your gaming experience to the next level with LYNX Rewards, the exclusive loyalty program at Grand Royal W\u00f4linak Casino. Designed for both casual players and high rollers, this program offers incredible benefits every time you play. Earn points on slot machines and table games, then redeem them for free play, dining, drinks, and exclusive gifts. The more you play, the more rewards you unlock.<\/p>\n<br>\n<p> LYNX Rewards features five exciting tiers\u2014Perle, Saphir, Or, Platine, and Noir\u2014each offering greater perks such as VIP parking, priority service, cashback offers, and personalized promotions. Reaching the top Noir level gives you access to elite privileges and exclusive events. Joining is free, and every spin or hand brings you closer to premium rewards.<\/p>\n<br>\n<p> Sign up today and start enjoying exclusive bonuses, special promotions, and unforgettable experiences at one of the best casinos in Quebec. With LYNX Rewards, loyalty truly pays off.<\/p>\n<br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">How the system works:<\/h4>\n        <ul>\n            <li>\u2022 layers earn points for every amount spent on slots and table games.<\/li>\n            <li>\u2022 Points can be redeemed for free play, food, drinks, or souvenirs.<\/li>\n            <li>\u2022 The higher your tier, the more privileges you get: VIP parking, complimentary drinks, and exclusive promotions.<\/li>\n        <\/ul>\n        <br>\n\n    \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n    <h4 style = \"font-weight: bold; font-size: 24px;\">Tier requirements:<\/h4>\n           <ul>\n            <li>\u2022 To reach the highest Noir level, you need to accumulate approximately 300,000 points.<\/li>\n            <li>\u2022  Points are awarded based on a specific amount of wagers (the exact amount may vary).<\/li>\n           \n        <\/ul>\n<br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Is it worth joining?<\/h4>\n     <p>The main advantages appear at the Or and Platine levels, where VIP services and personalized offers become available.<\/p>\n        <br>\n\n \n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Unforgettable entertainment and casinos in Quebec at W\u00f4linak Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nExclusive Casino Bonuses and Promotions at W\u00f4linak Casino\n<\/h3>\n\n<p>At Grand Royal W\u00f4linak Casino, players are rewarded from the moment they join. New members can claim a generous welcome package of up to C$5000 and enjoy 300 free spins on top-rated slot games. This multi-tiered bonus is spread across your first four deposits, offering increasing rewards and access to exclusive tournaments and cashback deals.<\/p>\n<br>\n<p>Regular players benefit from weekly free spins, cashback programs, and seasonal promotions tailored to enhance every gaming session. The casino also hosts exciting slot and table game tournaments with large prize pools, giving everyone a chance to win big. Progressive jackpots on popular games like Sweet Bonanza, Book of Dead, and Gates of Olympus offer life-changing payouts, while live games such as Lightning Roulette feature multipliers up to 500x.<\/p>\n<br>\n<p> Whether you're spinning the reels or playing live dealer games, W\u00f4linak Casino ensures that every bet brings you closer to thrilling rewards. Don\u2019t miss out on the best casino bonuses in Quebec\u2014sign up today and start winning.<\/p>\n<br>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Welcome Package<\/h4>\n        <p>\n          The bonuses are distributed across the first four deposits:\n        <\/p>\n <ul>\n            <li>\u2022 150% bonus + free spins on the first deposit<\/li>\n            <li>\u2022 125% bonus + accelerated loyalty points on the second deposit\n<\/li>\n            <li>\u2022 125% bonus + access to exclusive tournaments on the third deposit\n<\/li>\n<li>\u2022 100% bonus + cashback on the fourth deposit<\/li>\n        <\/ul>\n        <br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Regular Promotions and Offers<\/h4>\n        <p>\n            \u0422\u0435\u043a\u0441\u0442\n        <\/p>\n <ul>\n            <li>\u2022 Weekly free spins on top slots<\/li>\n            <li>\u2022 Cashback programs for regular players\n<\/li>\n <li>\u2022 Tournaments with large prize pools\n<\/li>\n            <li>\u2022 Seasonal promotions with extra bonuses<\/li>\n        <\/ul>\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at W\u00f4linak Casino\n<\/h3>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Slots<\/h4>\n<p>The casino offers over 450 slot machines on-site and more than 2,000 online games. Among the most popular slots are:<\/p>\n  <ul>\n            <li>\u2022 Sweet Bonanza \u2013 a colorful slot with multipliers and free spins (RTP 96.48%).<\/li>\n            <li>\u2022 Book of Dead \u2013 an adventurous slot with expanding symbols (RTP 96.21%).\n.<\/li>\n            <li>\u2022 Gates of Olympus \u2013 mythology-themed with cascading reels and bonus rounds (RTP 96.5%).\n<\/li>\n <li>\u2022 Buffalo Blitz \u2013 a wildlife slot featuring multipliers (RTP 95.96%).\n\n<\/li>\n        <\/ul>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Table Games<\/h4>\n        <p>\n           The casino floor includes Blackjack, Roulette, Baccarat, and a dedicated poker area with around eight tables. The main game is Texas Hold\u2019em, and small tournaments are occasionally hosted.\n        <\/p>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Live Games<\/h4>\n        <p>\n      One of the most popular live games is Lightning Roulette, offering multipliers up to 500x, making it dynamic and highly rewarding.\n        <\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetting Limits at W\u00f4linak Casino: Minimum and Maximum Stakes\n<\/h3>\n\n<p> Understanding the betting limits at Grand Royal W\u00f4linak Casino helps players plan their gaming experience effectively. Whether you prefer slots, table games, or poker, the casino offers flexible limits to suit both casual players and high rollers.<\/p>\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#0E040F; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$100 per spin<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$2<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$1,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$2,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Texas Hold\u2019em)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> Blinds from C$1\/C$2, buy-ins starting at C$50<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"><\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table>\n<p>These limits ensure that every player, from beginners to VIPs, can enjoy a comfortable and exciting gaming experience. High-stakes tables are available for those seeking bigger thrills, while low-limit options allow for longer play sessions without breaking the bank.<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at W\u00f4linak Casino\n\n<\/h3>\n\n<p> At Grand Royal W\u00f4linak Casino, entertainment goes far beyond gaming. The venue hosts a wide range of events that combine excitement, culture, and live performances, making it one of Quebec\u2019s most vibrant casino destinations.<\/p>\n\n<br>\n<p> Guests can enjoy live music nights at the Ginko Resto Bar and Octogone Sports Bar, where local and national artists perform in an intimate setting. The casino regularly organizes special themed parties, such as the Thanksgiving Celebration, featuring live DJs, exclusive promotions, and festive d\u00e9cor.\n<\/p>\n\n<br>\n<p>One of the highlights is the Pow Wow Festival, a cultural event celebrating Abenaki heritage with traditional dances, music, artisan markets, and fireworks. This annual festival attracts visitors from across the region and blends indigenous culture with modern entertainment.\n<\/p>\n\n<br>\n<p> Special shows and concerts are held in the casino\u2019s performance space, including appearances by renowned artists like \u00c9ric Lapointe, whose concerts include gaming credits, VIP access, and exclusive perks. These events often sell out quickly and offer a unique mix of music and casino excitement.\n<\/p>\n\n<br>\n<p>Whether you're looking for a night of dancing, a cultural experience, or a live concert, W\u00f4linak Casino delivers unforgettable entertainment in a dynamic and welcoming atmosphere.\n<\/p>\n\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDining, Bars, Hotels & Relaxation at W\u00f4linak Casino\n\n<\/h3>\n\n<p> Grand Royal W\u00f4linak Casino offers more than just gaming\u2014it\u2019s a complete leisure destination in the heart of Quebec. Whether you're looking for gourmet dining, a casual drink, or a relaxing overnight stay, the casino has everything to make your visit unforgettable.<\/p>\n\n<br>\n  <h4 style = \"font-weight: bold; font-size: 24px;\">Gastronomy and Bars<\/h4>\n        <p>\n          The casino features two distinct culinary experiences. Ginko Resto Bar, located on the upper level, serves French-Italian-Mediterranean cuisine in a refined setting. Guests enjoy dishes crafted from fresh ingredients and signature cocktails, including creative whisky-based blends. For a more laid-back vibe, the Octogone Sports Bar offers a wide drink selection, big-screen TVs, and a lively atmosphere\u2014perfect for sports fans and casual diners alike\n        <\/p>\n<br>\n <h4 style = \"font-weight: bold; font-size: 24px;\">Nearby Hotels<\/h4>\n<p>\n         Several highly rated hotels are located within minutes of the casino, offering comfort and convenience:\n        <\/p>\n        <ul>\n            <li>\u2022 Manoir B\u00e9cancourt \u2013 Boutique-style lodging just 1.6 km away, known for its cozy rooms and personalized service.<\/li>\n            <li>\u2022 Hebert Hotels \u2013 A modern hotel 2.2 km from the casino, ideal for short stays with clean rooms and great location.<\/li>\n            <li>\u2022 Kinipi Spa & Suites \u2013 For those seeking luxury and wellness, this spa hotel 16 km away offers thermal baths and upscale accommodations.<\/li>\n        <\/ul>\n        <br>\n  <h4 style = \"font-weight: bold; font-size: 24px;\">Relaxation and Atmosphere<\/h4>\n        <p>\n     W\u00f4linak Casino is designed to provide a relaxing yet exciting environment. From elegant interiors with Indigenous-inspired design elements to cultural events and live music, the venue blends entertainment with comfort. Guests can unwind between games, enjoy a fine meal, or simply soak in the vibrant ambiance.\n        <\/p>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "You can use credit\/debit cards, Interac, bank transfers, and selected cryptocurrencies for online play.\n"
+                },
+                {
+                    "title": "Can I play in French or English?",
+                    "answer": "Yes, the platform and customer support are available in both French and English.\n"
+                },
+                {
+                    "title": "Are winnings taxable?",
+                    "answer": "In Canada, casino winnings are generally not taxed for recreational players.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/228",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "W\u00f4linak Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

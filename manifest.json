@@ -1,0 +1,19 @@
+{
+  "name": "Wôlinak Casino",
+  "short_name": "Wôlinak Casino",
+  "theme_color": "",
+  "background_color": "#0E040F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1761309298-images-2-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
